@@ -1,0 +1,7 @@
+0.- Creamos la base de datos con el fichero sql que hay en el proyecto
+1.- Creamos el proyecto con npm init --yes
+//ejs templates
+//body-parser para pasar datos del cliente al servidor
+2.- Instalamos dependencias npm install express mysql ejs body-parser
+3.- npm start
+4.- abrimos navegador y ponemos localhost:3000/news
